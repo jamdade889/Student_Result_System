@@ -1,0 +1,26 @@
+[
+    {
+        "id": 4,
+        "name": "komal",
+        "total": 264,
+        "average": 88.0,
+        "grade": "A",
+        "rank": 1
+    },
+    {
+        "id": 3,
+        "name": "komal",
+        "total": 261,
+        "average": 87.0,
+        "grade": "A",
+        "rank": 2
+    },
+    {
+        "id": 1,
+        "name": "sneha",
+        "total": 253,
+        "average": 84.33333333333333,
+        "grade": "A",
+        "rank": 3
+    }
+]
